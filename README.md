@@ -1,6 +1,4 @@
-[![Linsuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsuong)](https://github.com/linsuong)
-
-![Linsuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsuong&show_icons=true&theme=dracula)
+![Linsuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsuong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
 
 <!--
 **linsuong/linsuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
