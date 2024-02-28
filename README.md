@@ -2,9 +2,6 @@
 
 ![Miku Hi GIF](https://github.com/linsuong/linsuong/blob/main/miku%20hi.gif) 
 
-## About Me :D
-I am Physics student with a keen interest in acoustics and anything PC related.
-
 ## I (am learning to) code with:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
