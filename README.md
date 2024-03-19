@@ -13,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
 </div>
 
-(Human languages I know: English, 中文, Bahasa Melayu, 日本語)
-
 ## Some Stats:
 
 ![Linsuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsuong&show=reviewsprs_merged,prs_merged_percentage&show_icons=true&theme=transparent&locale=en&hide_border=false&order=1)
