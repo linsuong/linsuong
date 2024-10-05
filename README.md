@@ -26,19 +26,21 @@
 </div>
 
 ## My Battlestation:
-Main machine: ASUS G15 (2021), Ryzen 9 5900HS, 24GB Ram, RTX 3060
+Main machine: Ryzen 5700X3D, GSkill 3200MHz 32GB CL 16 RAM, EVGA 3080 FTW 12GB, Noctua NHD15 in the Hyte Y70
+
+Second machine: Macbook Pro M3 (M1 iPad Pro)
 
 Keyboard(s): RAMA Kara MOON (Boba U4T), GMMK Pro (C3 Tangerine)
 
-Mouse: Logitech GPro Superlight
+Mouse: Logitech GPro Superlight, Logitech G305
 
-Headphone(s): Sennheiser HD800, Focal Clear, Sennheiser HD600
+Headphone(s): Sennheiser HD800, Focal Clear, STAX Lambda OG
+
+Amp(s): Schiit Audio Jotunheim 2 (Muiltibit DAC), STAX SRM MK-1/MK2
 
 Speakers: Q-Acoustics 3020i
 
 Mic: AudioTechnica AT2020+ USB
-
-I code with an M1 iPad Pro on the go!
 
 ## Find me on:
 <div align="left">
