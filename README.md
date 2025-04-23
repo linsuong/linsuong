@@ -28,13 +28,13 @@
 ## My Battlestation:
 Main machine: Ryzen 5700X3D, GSkill 3200MHz 32GB CL 16 RAM, EVGA 3080 FTW 12GB, Noctua NHD15 in the Hyte Y70
 
-Second machine: Macbook Pro M3 (M1 iPad Pro)
+Second machine: Macbook Pro M3 + M1 iPad Pro
 
-Keyboard(s): RAMA Kara MOON (Boba U4T), GMMK Pro (C3 Tangerine)
+Keyboard: RAMA Kara MOON + Gateron INK Black V2 + GMK MTNU MODO
 
 Mouse: Logitech GPro Superlight, Logitech G305
 
-Headphone(s): Sennheiser HD800, Focal Clear, STAX Lambda OG
+Headphone(s): Sennheiser HD800, Focal Clear, STAX Lambda OG, ThieAudio Monarch MK2
 
 Amp(s): Schiit Audio Jotunheim 2 (Muiltibit DAC), STAX SRM MK-1/MK2
 
