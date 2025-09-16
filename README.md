@@ -15,7 +15,8 @@
 
 ## Now Listening To:
 &nbsp;<div align="center">
-  [![Spotify](https://linsuong.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0m5y60fqne3yv9p60mouq28zc)
+  [![Spotify](https://linsuong.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0m5y60fqne3yv9p60mouq28zc?si=48489360233944b7)
+  
 </div>
 
 ## My Battlestation:
