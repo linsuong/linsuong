@@ -2,16 +2,9 @@
 
 ![Miku Hi GIF](https://github.com/linsuong/linsuong/blob/main/miku%20hi.gif) 
 
-## I (am learning to) code with:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-</div>
+## Notable Projects:
+- [Dark Matter Discovery](https://github.com/linsuong/DarkMatterDiscovery)
+- [Traffic Flow Simulation](https://github.com/linsuong/TrafficFlowSim)
 
 ## Some Stats:
 
